@@ -7,7 +7,7 @@ You can also play the game here https://rosebud.ai/p/vieraville
 
 ## 🎮 How to Play
 
-Build and manage a thriving Florida community. Hire **unlimited managers** who autonomously generate construction plans, build roads and structures, and grow your town. Balance your budget, maintain structures, and watch your population soar!
+Build and manage a thriving Florida community. Hire **up to 10 managers** who autonomously generate construction plans, build roads and structures, and grow your town. Balance your budget, maintain structures, and watch your population soar!
 
 ### Getting Started
 1. **Hire Your First Manager** - Choose from managers with unique building preferences
