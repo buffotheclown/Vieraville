@@ -2,6 +2,7 @@
 
 A city-building tycoon game where you hire autonomous managers to build and develop a Florida-themed town. Watch as your managers propose construction plans, build roads and structures, and grow your town into a thriving metropolis!
 
+You can also play the game here https://rosebud.ai/p/vieraville
 ---
 
 ## 🎮 How to Play
